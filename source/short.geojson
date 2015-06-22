@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.87088507656375,
+                    35.21515162500578
+                ]
+            },
+            "properties": {
+                "name": "ABBOTT NEIGHBORHOOD PARK",
+                "address": "1300  SPRUCE ST"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.83775386582222,
+                    35.24980190252168
+                ]
+            },
+            "properties": {
+                "name": "DOUBLE OAKS CENTER",
+                "address": "1326 WOODWARD AV"
+            }
+        }
+    ]
+}
